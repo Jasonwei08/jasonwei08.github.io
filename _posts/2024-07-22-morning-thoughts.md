@@ -1,5 +1,5 @@
 ---
-title: Some Early Morning Thoughts
+title: little morning thoughts
 tags: rants
 ---
 
