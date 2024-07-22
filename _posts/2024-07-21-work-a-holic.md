@@ -1,3 +1,8 @@
+---
+title: Work-A-Holic
+tags: rants, others
+```
+
 work day since waking up (9am)
 
 first of all tried [this problem](https://qoj.ac/problem/503), this was kinda a derpy problem ngl, the general case is actually simple cuz you can just keep a xor checksum and call it quits. however, the smaller cases is what the worst cases come out. but in the end you can still just keep checksum and keep something like a huffman code. egy hw is like 4 problems to go, all of them are pretty much spam segtree im pretty sure 🤡. i need to like type up more chinese ds, getting too rusty
