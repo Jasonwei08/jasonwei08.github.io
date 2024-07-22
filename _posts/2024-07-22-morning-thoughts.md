@@ -1,3 +1,9 @@
+---
+title: Some Early Morning Thoughts
+tags: rants
+---
+
+
 > *How do you measure, measure a year? How about love?*
 >
 > *--<cite>Rent, Seasons of Love</cite>*
