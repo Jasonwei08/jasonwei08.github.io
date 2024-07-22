@@ -1,3 +1,9 @@
+---
+layout: post
+title: it sucks
+tags: rants
+---
+
 everything sucks today
 
 thus im opening this blog as a public journal just to ramble
