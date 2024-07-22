@@ -1,6 +1,6 @@
 ---
 title: Work-A-Holic
-tags: rants others
+tags: rants
 ---
 
 work day since waking up (9am)
