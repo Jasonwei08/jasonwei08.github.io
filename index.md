@@ -4,6 +4,8 @@ updated daily unless im lazy
 
 things about me:
 
+any criticism you dont wanna tell to my face: [here](https://admonymous.co/jasonwei08)
+
 hs co 2026
 
 not disclosing the hs name for reasons
