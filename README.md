@@ -6,4 +6,4 @@ to-dos
 
 - finish p4 (optional) /p5 on imo24
 
-- write up jsoi 2009 game
+- ~~write up jsoi 2009 game~~
