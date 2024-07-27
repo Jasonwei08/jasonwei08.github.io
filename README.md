@@ -1,6 +1,6 @@
 to-dos
 
-- finish p3 on cnoi24d1
+- finish p3/p6 on cnoi24d1 (no rush)
 
 - write up cnoi18 d1/d2
 
