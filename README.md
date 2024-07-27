@@ -7,3 +7,5 @@ to-dos
 - finish p4 (optional) /p5 on imo24
 
 - ~~write up jsoi 2009 game~~
+
+- run with the wind reading guide
