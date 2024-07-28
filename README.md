@@ -9,3 +9,5 @@ to-dos
 - ~~write up jsoi 2009 game~~
 
 - run with the wind reading guide
+
+- 3 body reading stuff
