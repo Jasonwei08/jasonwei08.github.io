@@ -2,7 +2,7 @@ to-dos
 
 - finish p3/p6 on cnoi24d1 (no rush)
 
-- write up cnoi18 d1/d2
+- write up sols cnoi18 d1/d2
 
 - finish p4 (optional) /p5 on imo24
 
