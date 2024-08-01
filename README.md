@@ -8,7 +8,7 @@ to-dos
 
 - ~~write up jsoi 2009 game~~
 
-- nfls 07/30 PC
+- ~~nfls 07/30 PC~~
 
 - run with the wind reading guide
 
