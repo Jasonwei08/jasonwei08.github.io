@@ -14,6 +14,8 @@ to-dos
 
 - nfls 08/02 pc
 
+- 08/04 atcoder and cf writeups
+
 - run with the wind reading guide
 
 - 3 body reading stuff
