@@ -18,4 +18,6 @@ to-dos
 
 - run with the wind reading guide
 
+- egy 1.1 set
+
 - 3 body reading stuff
